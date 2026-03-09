@@ -12,3 +12,5 @@
 4. klik select metrik
 
     ![1773023745212](image/monitoring-cloudwatch/1773023745212.png)
+
+![1773028199163](image/monitoring-cloudwatch/1773028199163.png)
