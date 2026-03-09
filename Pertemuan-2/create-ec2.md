@@ -2,10 +2,7 @@
 
 1. Pilih menu allservices kemudian pilihh ec2
 
-![1772421174219](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/raiha/Documents/Semester%206/Administrasi%20Server/Pertemuan-2/image/create-ec2/1772421174219.png)
-
-    
-
+   ![1773024118232](image/create-ec2/1773024118232.png)
 2. Pilih bagian instance didalam ec2
 
    ![1772421238830](image/create-ec2/1772421238830.png)
