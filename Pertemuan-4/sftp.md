@@ -32,4 +32,4 @@
    - ![1773633669950](image/sftp/1773633669950.png)
 5. Ubahh tampilan Htmlnya bebas
 
-   ![1773634509635](image/sftp/1773634509635.png)
+   ![1773637141587](image/sftp/1773637141587.png)
