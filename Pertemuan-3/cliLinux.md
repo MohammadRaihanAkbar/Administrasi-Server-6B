@@ -11,7 +11,7 @@
 6. masukkan command
 
    - sudo su (untuk ke root)
-   - lalu ke cd../.. (pergi ke #)
+   - lalu ke cd /../.. (pergi ke #)
    - ke cd var/www/html
    - ls -la (untuk melihat directory tempat cursor aktif)
 

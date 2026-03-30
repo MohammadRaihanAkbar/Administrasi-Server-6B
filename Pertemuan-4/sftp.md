@@ -10,6 +10,8 @@
    - protocol> SFTP
    - host > IP Public
    - port > 22
+   - logon type > key file
+   - user ketik : ubuntu
    - key > cari kunci di D
    - klik connect
    - Lalu OK
