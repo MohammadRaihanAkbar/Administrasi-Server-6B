@@ -30,7 +30,7 @@
 
    - masuk ke putty aktifkan
    - ubah kepemilikan folder /var/www/html
-   - sintaks sudo chown -R ubuntu:ubuntu var/www/html
+   - sintaks sudo chown -R ubuntu:ubuntu /var/www/html
    - ![1773633669950](image/sftp/1773633669950.png)
 5. Ubahh tampilan Htmlnya bebas
 
