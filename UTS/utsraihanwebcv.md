@@ -15,14 +15,17 @@
 ![1775487135595](image/utsraihanwebcv/1775487135595.png)
 ![1775487083640](image/utsraihanwebcv/1775487083640.png)
 
-### 4. Remote SSH
+### 4. buat security group
+
+![1775890258449](image/utsraihanwebcv/1775890258449.png)
+
+### 5. Remote SSH
 
 ![1775485809609](image/utsraihanwebcv/1775485809609.png)
 
-### 5. Install web server (Nginx)
+### 6. Install web server (Nginx)
+![1775890907008](image/utsraihanwebcv/1775890907008.png)
 
-![1775489582528](image/utsraihanwebcv/1775489582528.png)
-
-### 6. Hasil WEB CV nya
+### 7. Hasil WEB CV nya
 
 ![1775492706437](image/utsraihanwebcv/1775492706437.png)
