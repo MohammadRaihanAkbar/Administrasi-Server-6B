@@ -8,7 +8,7 @@
 
 ### 2. buat EIP dan sambungkan ke instance
 
-![1775485575571](image/utsraihanwebcv/1775485575571.png)
+![1776050648984](image/utsraihanwebcv/1776050648984.png)
 
 ### 3. cloudwatch alarm 80% CPU
 
