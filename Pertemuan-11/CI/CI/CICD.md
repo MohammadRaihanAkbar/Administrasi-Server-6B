@@ -80,3 +80,5 @@ name: Deploy Next.js to AWS EC2
     - klik commit changes
 
     ![1777869748414](image/CICD/1777869748414.png)
+
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff9bc569-16ae-4cbc-985e-8bc9eec8fbbf" />
