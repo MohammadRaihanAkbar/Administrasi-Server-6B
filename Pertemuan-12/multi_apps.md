@@ -17,3 +17,4 @@
     - open terminal cd web-dinamis
     - npm i
     - npm run dev
+    ![1778476809638](image/multi_apps/1778476809638.png)
