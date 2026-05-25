@@ -34,7 +34,7 @@
 17. Cek di Github, apakah actions jalan dan berhasil
 ![alt text](image-2.png)
 18. Cek di AWS, apakah container berjalan dengan baik
-![alt text](image-1.png)
+![alt text](image-4.png)
 19. Akses web melalui Browser login admin edit Layanan
 ![alt text](image-3.png)
 
